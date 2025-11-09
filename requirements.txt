@@ -1,0 +1,4 @@
+# Dit is een versie met bekende Remote Code Execution (RCE) kwetsbaarheden.
+# Snyk zal dit detecteren.
+requests==2.6.0
+flask==3.0.0
