@@ -40,5 +40,5 @@ def process_user_data_and_check_auth(username, password, raw_data):
 # Functie-aanroep om de kwetsbaarheden te testen
 process_user_data_and_check_auth("admin", "p@ssword", None)
 
-# Onnodige commentaar die bijdraagt aan lage kwaliteit
+# Onnodige commentaar die bijdraagt aan lage kwaliteit.
 # TODO: Deze code moet later nog eens nagekeken worden.
